@@ -6,4 +6,9 @@ The label target:
 *   1: client with payment difficulties
 *   0: client without payment difficulties
 
+With machine learning, we will run several compatible algorithm to predict the customer whether they are able to pay the loan and thei application get accepted.
+Algorithm, we will use:
+* Logistic Regression
+* Gradient Boosting Classifier
+
 Created by: Novita Yolanda Barus
