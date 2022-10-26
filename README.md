@@ -5,3 +5,5 @@ Home Credit is an international **non-bank financial institution** founded in 19
 The label target:
 *   1: client with payment difficulties
 *   0: client without payment difficulties
+
+Created by: Novita Yolanda Barus
